@@ -1,0 +1,5 @@
+name,age,sal,income,loan_status
+kartik,25,45222,56444589,Approved
+Radhika,25,75000,7892255,Denied
+Keshav,30,75000,97456456,Approved
+Prakash,28,95000,785513215,Denied
